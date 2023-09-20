@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b1de288-7f15-458b-9d9b-22b0e7a4cd0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EborPlatform/.idea/EborPlatform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EborPlatform/mq_publisher_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EborPlatform/platform/platform/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../as/.idea/as.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../as/as.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/.idea/backtrader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/.idea/workspace-LAPTOP-GRJV35QK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/RSRSETF2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/RsrsETF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/crypto/AdaptBoll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/crypto/reak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backtrader/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/cerebro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/strategy_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/trade_engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/DatabaseManager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observers/observer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observers/subject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategies/base_strategy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategies/strategy1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../etf/.idea/etf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../etf/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../etf/test/test_schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorFrame/.idea/factorFrame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/chatgpt/.idea/chatgpt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/chatgpt/news.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/chatgpt/news/news2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/chatgpt/news/news3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/chatgpt/news/news4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/chatgpt/news/news5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/chatgpt/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shift/.idea/shift.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta/gplearnEdit/.idea/gplearnEdit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta/scripts/.idea/scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta/scripts/test/.idea/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UBWotjkXIR7TGxvMYpXBvqLLm6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - The Chinese University of Hong Kong\Coding\quant\eborQuant\core" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="eborQuant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b1de288-7f15-458b-9d9b-22b0e7a4cd0f" name="Changes" comment="" />
+      <created>1692413631472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692413631472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

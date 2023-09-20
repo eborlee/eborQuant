@@ -1,0 +1,60 @@
+# global_config.yaml
+global:
+  log_level: INFO
+  trade_engine_url: https://api.tradeengine.com
+
+database:
+  host: 8.209.204.201
+  port: 5432
+  username: eborquant
+  password: 19880526
+  dbname: eborquant
+  driver: postgresql # 可以是其他数据库类型，例如mysql
+  pool_size: 5 # 连接池大小（如果适用）
+  timeout: 10 # 超时时间（秒）
+  sslmode: disable # SSL模式
+
+# 交易引擎设置
+trade_engine:
+  api_key: your_api_key
+  trading_pairs: ['BTC/USD', 'ETH/USD']
+  order_settings:
+    type: limit
+    timeout: 300
+
+
+
+# 并发和多策略设置
+concurrency:
+  max_strategies: 5
+  max_threads: 10
+
+# 日志配置
+logging:
+  level: INFO
+  output: loggers/trading.log
+  format: '%(asctime)s %(levelname)s: %(message)s'
+
+# 通知设置
+notifications:
+  telegram:
+    bot_token: '5876261945:AAHMxROTFpcEhhqkrS0D39Nz0rfkhyGVstc'
+    chat_id: '5530593352'
+
+# 插件管理器配置
+plugins:
+  plugin_1:
+    path: path/to/plugin
+    enabled: true
+
+# Web前后端设置
+web_server:
+  port: 8000
+  path: /api
+  auth_token: your_auth_token
+
+# 其他通用设置
+general:
+  timezone: UTC
+  language: en
+  cache: enabled

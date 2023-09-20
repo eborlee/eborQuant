@@ -1,0 +1,9 @@
+# 策略参数
+
+strategy_1:
+  trade_size: 0.1
+  time_frame: 5m
+  indicator:
+    type: SMA
+    period: 20
+
